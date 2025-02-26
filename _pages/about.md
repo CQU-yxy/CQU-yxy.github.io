@@ -31,4 +31,4 @@ Hey there! I’m a master’s student at Beijing Institute of Technology now. I 
 
 In 2025, I plan to continue my academic journey at Peking University.
 
-My research interests mainly include privacy-preserving technologies and blockchain technology.
+My current research interests primarily focus on privacy-preserving technologies and blockchain. Moving forward, I plan to concentrate more on security and privacy challenges related to AI/LLMs.
