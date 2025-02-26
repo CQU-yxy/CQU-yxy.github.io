@@ -27,6 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hey there! I’m a master’s student at Beijing Institute of Technology now. I am fortunate to be under the supervision of Prof. Lei Xu and Prof. Zijian Zhang. Before this, I obtained my bachelor’s degree in computer science from Chongqing University in 2022. In 2025, I plan to continue my academic journey at Peking University.
+Hey there! I’m a master’s student at Beijing Institute of Technology now. I am fortunate to be under the supervision of  Prof. [Lei Xu](https://cst.bit.edu.cn/szdw/jsml/bssds/933e7aef6944466b8ff08a4586b34599.htm) and Prof. [Zijian Zhang](https://cst.bit.edu.cn/szdw/jsml/bssds/cea4904e7e274a07a460f93c917a0216.htm). Before this, I obtained my bachelor’s degree in computer science from Chongqing University in 2022. (As you can tell from the URL, I’m proud of my time at CQU!) 
+
+In 2025, I plan to continue my academic journey at Peking University.
 
 My research interests mainly include privacy-preserving technologies and blockchain technology.
