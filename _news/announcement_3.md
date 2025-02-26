@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am admitted to Peking University’s PhD program in Software Engineering. :spark:
+I am admitted to Peking University’s PhD program in Software Engineering. :sparkles:
