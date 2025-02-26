@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-02-26
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+I’ve finally created my academic homepage! I’m also excited to share that I have published two JCR-Q1 papers last month, in Future Generation Computer Systems (FGCS) and IEEE Transactions on Network and Service Management (TNSM). Additionally, I’m thrilled to announce that I have been admitted to Peking University’s PhD program in Software Engineering. :smile:
