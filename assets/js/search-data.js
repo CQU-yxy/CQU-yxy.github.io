@@ -51,8 +51,8 @@ ninja.data = [{
           section: "News",},{id: "news-one-paper-is-accepted-by-fgcs-smile",
           title: 'One paper is accepted by FGCS. :smile:',
           description: "",
-          section: "News",},{id: "news-i-am-admitted-to-peking-university-s-phd-program-in-software-engineering-spark",
-          title: 'I am admitted to Peking University’s PhD program in Software Engineering. :spark:',
+          section: "News",},{id: "news-i-am-admitted-to-peking-university-s-phd-program-in-software-engineering-sparkles",
+          title: 'I am admitted to Peking University’s PhD program in Software Engineering. :sparkles:',
           description: "",
           section: "News",},{
         id: 'social-email',
