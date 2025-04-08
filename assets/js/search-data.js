@@ -54,6 +54,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-am-admitted-to-peking-university-s-phd-program-in-software-engineering-sparkles",
           title: 'I am admitted to Peking University’s PhD program in Software Engineering. :sparkles:',
           description: "",
+          section: "News",},{id: "news-one-paper-is-accepted-by-ieee-tifs-ccf-a-smile",
+          title: 'One paper is accepted by IEEE TIFS (CCF A). :smile:',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
