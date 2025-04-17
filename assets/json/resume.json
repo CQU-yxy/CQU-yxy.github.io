@@ -39,6 +39,13 @@
       "releaseDate": "2024-12",
       "url": "https://ieeexplore.ieee.org/abstract/document/10839283/",
       "summary": "In this paper, we propose a system named zkFabLedger which enhances both the privacy and the auditability of the classic permissioned blockchain platform Hyperledger Fabric."
+    },
+    {
+      "name": "De-anonymizing Monero: A Maximum Weighted Matching-Based Approach",
+      "publisher": "IEEE Transactions on Information Forensics and Security, IEEE",
+      "releaseDate": "2025-04",
+      "url": "https://ieeexplore.ieee.org/abstract/document/10963663/",
+      "summary": "In this paper, we transform the de-anonymization of Monero to a maximum weighted matching problem. And we propose a deep reinforcement learning-based method to solve it."
     }
   ],
   "languages": [
